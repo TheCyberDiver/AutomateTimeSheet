@@ -81,7 +81,7 @@ def menu():
     print("2. Exit/Quit")
     options = input('What would you like to do?: ')
     if (options==("1")):
-        print(, logonStep())
+        print(logonStep())
 
     elif (options==("2")):
         print("Logging out")
