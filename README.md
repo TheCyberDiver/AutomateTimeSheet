@@ -1,6 +1,4 @@
 # Automatic-Timesheet-Selenium
-Automatically fills out timesheet using Selenium library
-This will not work for everyone but it a project I made for automating my timesheet creation and submission using Python!
 
 ################################################################
 #                          NOTICE:                             #
@@ -8,3 +6,5 @@ This will not work for everyone but it a project I made for automating my timesh
 #             GET REAL WORLD PROJECTS ON HERE                  #
 #                   USE AT YOUR OWN RISK                       #
 ################################################################
+
+It will automatically fill out my current timesheet with 40Hrs for the week!
