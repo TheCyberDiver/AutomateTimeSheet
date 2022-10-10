@@ -7,4 +7,6 @@
 #                   USE AT YOUR OWN RISK                       #
 ################################################################
 
-It will automatically fill out my current timesheet with 40Hrs for the week!
+It automatically fills out my current timesheet with 40Hrs for the week!
+
+
